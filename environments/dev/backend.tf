@@ -13,9 +13,9 @@
 # limitations under the License.
 
 
-terraform {
-  backend "gcs" {
-    bucket = "data-button-357010-tfstate"
-    prefix = "env/dev"
-  }
-}
+#terraform {
+#  backend "gcs" {
+#    bucket = "data-button-357010-tfstate"
+#    prefix = "env/dev"
+#  }
+#}
